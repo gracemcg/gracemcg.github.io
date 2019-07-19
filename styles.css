@@ -1,0 +1,22 @@
+#top{
+  background-color: white;
+}
+
+#main {
+
+  .snowflake {
+position: fixed;
+background-color: #CCC;
+user-select: none;
+z-index: 1000;
+pointer-events: none;
+border-radius: 50%;
+width: 10px;
+height: 10px;
+}
+
+    padding: 5vw;
+		border:white;
+		background: linear-gradient(to bottom, white, lightcyan, skyblue, deepskyblue, blue);
+     font-family: "bookman old style";
+}
